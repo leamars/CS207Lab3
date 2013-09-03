@@ -20,6 +20,7 @@ public class Task1 {
 		String[] numbers = {"zero", "one", "two", "three", "four", "five"
 				, "six"};
 		oddPrint(numbers);
+		System.out.println("makeing chane");
 
 	}
 } // main(String[] args)
